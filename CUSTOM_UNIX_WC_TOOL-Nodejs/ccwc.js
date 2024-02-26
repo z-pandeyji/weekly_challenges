@@ -47,3 +47,10 @@ if (option === '-c' && filePath) {
 } else {
     console.error('Invalid arguments');
 }
+
+// To Test the code 
+
+// Run node ccwc.js -l text.txt 
+// Run node ccwc.js -c text.txt 
+// Run node ccwc.js -m text.txt 
+// Run node ccwc.js -w text.txt 

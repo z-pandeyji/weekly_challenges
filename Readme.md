@@ -4,7 +4,7 @@ This repository is dedicated to uploading weekly coding challenges sourced from 
 
 ## Purpose
 
-The purpose of this repository is to provide a platform for individuals to access and engage with weekly coding challenges. These challenges are curated by John Crickett and are designed to enhance programming skills and problem-solving abilities.
+The primary aim of this repository is to serve as a hub for individuals seeking to tackle weekly coding challenges, meticulously crafted to elevate programming prowess and problem-solving acumen.
 
 ## How to Participate
 
@@ -28,6 +28,6 @@ If you would like to contribute to this repository:
 
 ## Feedback and Support
 
-If you have any feedback or require support regarding the coding challenges or this repository, feel free to open an issue or reach out to [John Crickett](https://www.linkedin.com/in/johncrickett/) on LinkedIn.
+If you have any feedback or require support regarding the coding challenges or this repository, feel free to open an issue or reach out to me [Shivanshu Pandey](https://www.linkedin.com/in/zpandeyji/) on LinkedIn.
 
 Happy coding!
